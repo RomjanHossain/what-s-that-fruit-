@@ -15,6 +15,7 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^1.0.0
   image_picker: ^0.6.7+12
+  percent_indicator: ^2.1.7+4
   random_color: ^1.0.5
   splashscreen: ^1.2.0
   tflite: ^1.1.1

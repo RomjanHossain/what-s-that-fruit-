@@ -2,6 +2,7 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:splashscreen/splashscreen.dart';
+import 'package:what_s_that_fruit/cons.dart';
 import 'package:what_s_that_fruit/screens/homePage.dart';
 
 class MySplashScreen extends StatefulWidget {
@@ -60,10 +61,7 @@ class _MySplashScreenState extends State<MySplashScreen> {
       gradientBackground: LinearGradient(
         begin: Alignment.centerLeft,
         end: Alignment.centerRight,
-        colors: [
-          Color(0xFFc31432),
-          Color(0xFF240b36),
-        ],
+        colors: kpageGr,
       ),
       loadingText: Text(
         '$_start',
