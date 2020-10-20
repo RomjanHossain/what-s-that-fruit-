@@ -113,8 +113,8 @@ class _MyHomePageState extends State<MyHomePage> {
         decoration: BoxDecoration(
           gradient: khomePageGr,
         ),
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.spaceAround,
+        child: ListView(
+          scrollDirection: Axis.vertical,
           children: [
             _leading
                 ? Container(
@@ -182,6 +182,9 @@ class _MyHomePageState extends State<MyHomePage> {
                       ],
                     ),
                   ),
+            SizedBox(
+              height: 20,
+            ),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               // crossAxisAlignment: CrossAxisAlignment.center,
