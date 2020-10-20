@@ -49,7 +49,7 @@ class _MySplashScreenState extends State<MySplashScreen> {
       seconds: _start,
       navigateAfterSeconds: MyHomePage(),
       title: Text(
-        'Welcome to \n \t\t\t\t\t\tWTF',
+        'Welcome to \n Remember Fruit',
         style: TextStyle(
           fontWeight: FontWeight.bold,
           fontSize: 50,
