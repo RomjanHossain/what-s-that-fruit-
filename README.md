@@ -1,6 +1,6 @@
 ## what_s_that_fruit
 
-This project is for recognize **Fruit** photo from gallery or camera. I've trained [this model](https://www.kaggle.com/moltean/fruits) from kaggle. 
+This project is for recognize **Fruit** photo from gallery or camera. I've trained the model from [this dataset](https://www.kaggle.com/moltean/fruits) from kaggle. 
 
 ### Here's the final version of the app
 
@@ -8,6 +8,3 @@ This project is for recognize **Fruit** photo from gallery or camera. I've train
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![ScreenShot 3](assets/images/screenshot/ss3.png) | ![ScreenShot 4](assets/images/screenshot/ss4.png) |
 
-
-
-Here's the download link -> [Download this App](https://www.amazon.com/gp/product/B08LCBJSCZ)
